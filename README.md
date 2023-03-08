@@ -1,6 +1,6 @@
 ## Hello, World
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是benjamin，主玩 Vue / Java / Python / Go，喜欢AI，也很喜欢折腾，以下内容通过 <a href="https://github.com/tw93/tw93/actions" target="_blank">Actions</a> 自动更新：
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是benjamin，主玩 Vue / Java / Python / Go，爱好说唱，喜欢鼓捣AI，也很喜欢折腾。
 
 <table width="960px">
 <tr>
@@ -24,7 +24,7 @@
 
 #### 🏊‍♂️ Weekly Development Breakdown
 
-![light](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
+<!-- ![light](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only) -->
 
 ![dark](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
 
