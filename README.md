@@ -26,7 +26,7 @@
 
 <!-- ![dark](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sun0225SUN&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
-<img height="193px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sun0225SUN&layout=compact&langs_count=6&theme=tokyonight" />
+<img height="193px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EZ4jam1n&layout=compact&langs_count=6&theme=tokyonight" />
 </td>
 
 </tr>
