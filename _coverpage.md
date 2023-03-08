@@ -2,11 +2,12 @@
 
 # 包哲铭的笔记 
 
-> 💪Benjam1n's note，使用Typora+Docsify打造的个人文档。
+>💎Benjam1n's blog
 
- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+ 985本 Top2硕 保研er
+- 学习笔记
+- 硕士日常
+- 技术分享
 
 
 [开始使用](/README.md)
