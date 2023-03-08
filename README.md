@@ -1,12 +1,12 @@
 ## Hello, World
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是benjamin，主玩 Vue / Java / Python / Go，爱好说唱，喜欢鼓捣AI，也很喜欢折腾。
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是benjamin，主玩 Vue / Java / Go，爱好说唱，左侧有歌单，喜欢鼓捣AI，也很喜欢折腾。
 
 <table width="960px">
 <tr>
 <td valign="top" width="50%">
 
-#### 🏋️‍♀️ Github Statuss
+#### 🏋️‍♀️ Github Stats
 
 <!-- recent_releases starts -->
 <!-- * <a href='https://github.com/tw93/Pake/releases/tag/V1.0.6' target='_blank'>Pake Daily updates</a> - 2023-03-06
@@ -24,17 +24,16 @@
 
 #### 🏊‍♂️ Weekly Development Breakdown
 
-<!-- ![light](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only) -->
-
-![dark](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
-
+<!-- ![dark](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sun0225SUN&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
+<img height="193px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sun0225SUN&layout=compact&langs_count=6&theme=tokyonight" />
 </td>
 
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-#### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Recent Blog</a>
+#### 🤾‍♂️ <a href="https://byteshop.shop" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
 * <a href='https://tw93.fun/2023-01-25/alacritty.html' target='_blank'>改良了下传说中最快的终端</a> - 2023-01-25
@@ -47,7 +46,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### 🩴 <a href="https://weekly.tw93.fun" target="_blank">Trend Weekly</a>
+#### 🩴 <a href="https://byteshop.shop" target="_blank">Trend Weekly</a>
 
 <!-- weekly starts -->
 
