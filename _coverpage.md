@@ -7,7 +7,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);欢迎来到Benjam1n&center=true&size=27" alt="Typing SVG" />
 </a>
 >💎Benjam1n's blog
-
  985本 Top2硕 保研er Rapper
 - 学习笔记
 - 硕士日常
