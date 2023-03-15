@@ -6,6 +6,6 @@
   * [二叉树锯齿遍历](/ProjectDocs/二叉树锯齿遍历.md)
   * [删除链表的倒数第n个结点](/ProjectDocs/删除链表的倒数第n个结点.md)
 * 保研资料💎
-  * [计算机保研文书](/ProjectDocs/互保研话术.md)
+  * [计算机保研文书](/ProjectDocs/保研话术.md)
 * 技术分享🤖
   * [电子书](/ProjectDocs/互联网电子书及面试.md)
