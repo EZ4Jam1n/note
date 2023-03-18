@@ -3,9 +3,9 @@
 <!-- # 包哲铭的笔记  -->
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div> -->
-<a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=460&lines=console.log(%22Hello%2C%20World%22)&center=true&size=27" alt="Typing SVG" />
-</a>
+<!-- <a href="https://blog.sunguoqi.com/"> -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=460&lines=console.log(%22Hello%2C%20World%22)&color=FEFEFF&center=true&size=27" alt="Typing SVG" />
+<!-- </a> -->
 
 
 985本 C9硕 保研er 接保研辅导
